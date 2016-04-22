@@ -1,0 +1,9 @@
+.gradle
+.nb-gradle
+/target/
+.DS_STORE
+*.log
+nbactions.xml
+nb-settings.xml
+settings.xml
+/nbproject/
