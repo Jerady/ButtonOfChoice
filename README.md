@@ -1,2 +1,2 @@
 # ButtonOfChoice
-Example code how to make ToggleButtons behave like RadioButtons
+Make JavaFX ToggleButtons behave like RadioButtons
